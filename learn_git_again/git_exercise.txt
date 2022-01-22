@@ -42,7 +42,7 @@ rm third.txt
 git rm third.txt
 
 13. Commit with the message “removing third.txt”
-
+git commit -m "removing third.txt"
 
 14. Check out your commits using git log
 git log
