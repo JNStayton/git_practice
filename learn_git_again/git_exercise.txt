@@ -1,6 +1,8 @@
 
 6.2.5 GIT EXERCISE
-For the submission to this project, create a .txt file with all of the steps and commands you need to complete the exercise. Put each step or command on its own line. When you finish the exercise, look at the solution key for reference. 
+For the submission to this project, create a .txt file with all of the steps and commands you need to complete the exercise. 
+Put each step or command on its own line. 
+When you finish the exercise, look at the solution key for reference. 
 
 
 1. Create a folder called learn_git_again.
